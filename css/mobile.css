@@ -1,6 +1,7 @@
 @media (max-width: 500px) {
-  body {
-    background-color: red;
-    color: blue;
+    .habig {
+    display: block;
+    width: 500px;
+    margin: 10px;
   }
 }
