@@ -1,0 +1,53 @@
+/* man hinh Tablet do rong tu 768px  den 990*/
+@media (min-width: 768px) and (max-width: 990px) {
+  /* FORMAT MỤC TIÊU NGHỀ NGHIỆP VÀ THÔNG TIN CÁ NHÂN*/
+  .ttcn {
+    margin-left: 0px;
+  }
+  /*KINH NGHIỆM,KỸ NĂNG,NGÔN NGỮ,HOẠT ĐỘNG, HỌC VẤN< SỞ THÍCH */
+  .container-fluid1 {
+    padding-right: 20px;
+  }
+  /*CHỨNG CHỈ, GIẢI THƯỞNG*/
+  .java1-duongviendoc {
+    margin-top: 20px;
+    padding-left: 50px;
+    border-left: 1px solid #d6c08d;
+  }
+  .web2 {
+    align-self: start;
+    margin-top: 68px;
+    margin-left: 10px;
+  }
+
+  /*DỰ ÁN*/
+  .container-fluid3 {
+    margin-top: -400px;
+  }
+
+  .duan1224,
+  .duan1225,
+  .duan2224,
+  .duan2225,
+  .duan3224,
+  .duan3225 {
+    margin-top: 50px;
+    margin-left: -90px;
+  }
+
+  .duan1end {
+    padding-top: 90px;
+  }
+  .thhtmlduan323 {
+    padding-top: 36px;
+  }
+  .duan121 {
+    margin-top: 35px;
+  }
+  .duan221 {
+    margin-top: 25px;
+  }
+  .duan321 {
+    margin-top: 35px;
+  }
+}

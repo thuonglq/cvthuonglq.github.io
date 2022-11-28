@@ -1,0 +1,21 @@
+/* man hinh Mobile do rong toi da 768px */
+
+@media (max-width: 768px) {
+  /*FORMAT NAV HỒ SƠ*/
+  .navbar a {
+    float: none;
+    display: block;
+  }
+  .LQT {
+    display: none;
+  }
+
+  /* FORMAT MỤC TIÊU NGHỀ NGHIỆP VÀ THÔNG TIN CÁ NHÂN*/
+  /*KINH NGHIỆM,KỸ NĂNG,NGÔN NGỮ,HOẠT ĐỘNG, HỌC VẤN< SỞ THÍCH */
+  /*CHỨNG CHỈ, GIẢI THƯỞNG*/
+  .duongvienngang2 {
+    border-bottom: 1px solid #d6c08d;
+
+    width: 100%;
+  }
+}
